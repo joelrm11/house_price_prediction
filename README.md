@@ -45,7 +45,7 @@ The dataset contains information about houses, including:
 
 The training dataset contains 1,460 records and the Kaggle test dataset contains 1,459 records.
 
-Download the datasets from Kaggle and place `train.csv` and `test.csv` inside the `data` folder.
+The data folder contains the train.csv and test.csv datasets used in this project.
 
 ## 5. Project Structure
 
@@ -73,8 +73,6 @@ house_price_prediction/
 ├── .gitignore
 └── README.md
 ```
-
-Note: The dataset CSV files are excluded from GitHub using `.gitignore`. Download them from Kaggle before running the Python scripts.
 
 ## 6. Data Preprocessing
 
